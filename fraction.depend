@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1551671172 source:c:\users\compu adam\desktop\ass1dc\fraction\main.cpp
+	<iostream>
+	"frac.h"
+
+1551671827 c:\users\compu adam\desktop\ass1dc\fraction\include\frac.h
+	<bits/stdc++.h>
+	<iostream>
+
+1551672093 source:c:\users\compu adam\desktop\ass1dc\fraction\src\frac.cpp
+	"frac.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1551916210 source:c:\users\compu adam\downloads\compressed\a1_p2_20170017_20170029_20170048\main.cpp
+	<iostream>
+	"frac.h"
+
+1551916211 c:\users\compu adam\downloads\compressed\a1_p2_20170017_20170029_20170048\include\frac.h
+	<bits/stdc++.h>
+	<iostream>
+
+1551916211 source:c:\users\compu adam\downloads\compressed\a1_p2_20170017_20170029_20170048\src\frac.cpp
+	"frac.h"
+	<bits/stdc++.h>
+	<iostream>
+
+1554041778 source:d:\fci\my matarial\second year\second term\data structure\ass1ds\a1_p2_20170017_20170029_20170048\main.cpp
+	<iostream>
+	"frac.h"
+
+1551916212 d:\fci\my matarial\second year\second term\data structure\ass1ds\a1_p2_20170017_20170029_20170048\include\frac.h
+	<bits/stdc++.h>
+	<iostream>
+
+1551916212 source:d:\fci\my matarial\second year\second term\data structure\ass1ds\a1_p2_20170017_20170029_20170048\src\frac.cpp
+	"frac.h"
+	<bits/stdc++.h>
+	<iostream>
+
